@@ -1,3 +1,3 @@
 # xTrail app
 
-This app was wrotten using Dart + Flutter
+This app was written using Dart + Flutter
