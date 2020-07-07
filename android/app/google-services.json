@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459124292068",
+    "firebase_url": "https://justixtrail.firebaseio.com",
+    "project_id": "justixtrail",
+    "storage_bucket": "justixtrail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459124292068:android:a03c905dad4b5ec0baaff1",
+        "android_client_info": {
+          "package_name": "com.justix.xtrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459124292068-eghs3p4ba4qsccdp11avs9r21ajp2i64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYgJYWNuthXJBB6XnbzYznfGBtfw0KFbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459124292068-eghs3p4ba4qsccdp11avs9r21ajp2i64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
